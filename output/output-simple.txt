@@ -1,0 +1,12 @@
+Sentence: Hello, world!
+Tokens: ['Hello', ',', 'world', '!']
+Sentiment: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sentence: This is a test.
+Tokens: ['This', 'is', 'a', 'test', '.']
+Sentiment: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sentence: NLTK is a powerful library for natural language processing.
+Tokens: ['NLTK', 'is', 'a', 'powerful', 'library', 'for', 'natural', 'language', 'processing', '.']
+Sentiment: {'neg': 0.0, 'neu': 0.531, 'pos': 0.469, 'compound': 0.6486}
+

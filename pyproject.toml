@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ng-nltk-playground"
+version = "0.1.0"
+description = ""
+authors = ["Nicholas <me@nicholasgriffin.co.uk>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+nltk = "^3.9.1"
+pandas = "^2.2.2"
+matplotlib = "^3.9.2"
+textblob = "^0.18.0.post0"
+spacy = "^3.7.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
